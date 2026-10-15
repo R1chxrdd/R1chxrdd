@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou Richard Rodrigues 👋</h1>
 
 <p align="center">
-Estudante de Engenharia de Software em transição para a área de Dados.
+Estudante de Engenharia de Software
+  .
 </p>
 
 <p align="center">
