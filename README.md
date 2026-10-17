@@ -26,7 +26,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk">
 <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5">
